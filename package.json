@@ -1,0 +1,37 @@
+{
+  "name": "chakravyuh",
+  "displayName": "Chakravyuh",
+  "description": "Chakravyuh is a cyberpunk neon VS Code theme that blends deep darkness with vibrant electric hues, ensuring a sleek yet eye-friendly coding experience. Inspired by the legendary labyrinth, it wraps your code in a futuristic glow of neon blues, pinks, and cyber golds.",
+  "publisher": "ArunabhSen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arunabh-Sen/chakravyuh"
+  },
+  "keywords": [
+    "dark theme",
+    "chakravyuh",
+    "chakravyuh theme",
+    "chakravyuh dark theme",
+    "neon theme",
+    "cyberpunk",
+    "arunabh sen",
+    "arunabh chakravyuh",
+    "arunabh chakravyuh theme"
+  ],
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Chakravyuh Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Chakravyuh Theme-color-theme.json"
+      }
+    ]
+  }
+}
