@@ -1,22 +1,33 @@
-Chakravyuh – Cyberpunk Blue Neon VS Code Theme
+# ⚡ Chakravyuh – Cyberpunk Blue Neon VS Code Theme  
 
-Chakravyuh is a dark cyberpunk neon VS Code theme with a bluish tone, designed to provide a futuristic yet comfortable coding experience. Inspired by the legendary labyrinth from the Mahabharata, this theme blends deep blues and electric cyans ensuring a sleek and immersive atmosphere.
+Chakravyuh is a dark, cyberpunk-inspired VS Code theme with a sleek bluish neon aesthetic. Inspired by the legendary labyrinth from the Mahabharata, this theme blends deep blues with electric cyans to create an immersive yet comfortable coding environment.  
 
-🔥 Features
-✅ Cyberpunk Blue Aesthetic – A deep, futuristic glow with electric accents.
-✅ Eye-Friendly Contrast – Balanced neon tones without excessive strain.
-✅ Consistent UI Styling – Uniform neon elements across the editor.
-✅ Optimized for Readability – Clear syntax highlighting with smooth contrast.
-✅ Designed for Night Coders – Comfortable for long coding sessions.
+## 🔥 Features  
 
-![Chakravyuh Theme - Preview](screenshots/Screenshot%202025-03-31%20192444.png)
+### ✅ Cyberpunk Blue Aesthetic  
+A deep, futuristic glow with electric accents for a sleek, modern feel.  
 
-Installation
+### ✅ Eye-Friendly Contrast  
+Balanced neon tones to reduce eye strain while maintaining vibrancy.  
 
-Open VS Code
+### ✅ Consistent UI Styling  
+Uniform neon elements across the editor for a cohesive look.  
 
-Go to Extensions (Ctrl+Shift+X)
+### ✅ Optimized for Readability  
+Clear syntax highlighting with smooth contrast for easy code comprehension.  
 
-Search for Chakravyuh Theme
+### ✅ Designed for Night Coders  
+Comfortable for long coding sessions without excessive strain.  
 
-Click Install and activate it
+## 📸 Theme Preview  
+
+![Chakravyuh Theme - Preview](screenshots/Screenshot%202025-03-31%20192444.png)  
+
+## 🚀 Installation  
+
+### 1️⃣ Open VS Code  
+### 2️⃣ Go to Extensions (Ctrl+Shift+X)  
+### 3️⃣ Search for "Chakravyuh Theme"  
+### 4️⃣ Click Install and activate it  
+
+Enjoy the cyberpunk coding experience! 🚀  
